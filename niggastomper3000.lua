@@ -1,7 +1,7 @@
 game.StarterGui:SetCore("SendNotification",{
 	Title = "benx script";
 	Text = "made by warcock#0001";
-	Duration = 10;
+	Duration = 69;
 })
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/9sww/roblox-scripts/main/AntiAFK.lua'))()  
